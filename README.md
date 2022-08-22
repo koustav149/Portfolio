@@ -82,7 +82,7 @@ Photo by <a href="https://unsplash.com/@danieltadams?utm_source=unsplash&utm_med
 * Visualizations are done to find out how two types of users(member and casual) uses cyclistic bike share's bike differently.
 
 # Contacts
-Follow me on these social media platforms.
+You can follow me on these social media platforms.
 
 [Kaggle](https://www.kaggle.com/koustavghosh149)   |  [LinkedIn](https://www.linkedin.com/in/koustav-ghosh-633a30218/)  |  [Instagram](https://www.instagram.com/_koustav.ghosh_/)
  
