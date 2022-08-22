@@ -11,11 +11,11 @@
 Photo by <a href="https://unsplash.com/@bash__profile?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nicholas Cappello</a> on <a href="https://unsplash.com/s/photos/stock?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
-• Collected ***S&P stock*** history data from **tiilingo(financial data platform)** using free api key.
+* Collected ***S&P stock*** history data from **tiilingo(financial data platform)** using free api key.
 
-• Analysed the effect of **GAFAM** on **S&P stock**, used graphical representation.
+* Analysed the effect of **GAFAM** on **S&P stock**, used graphical representation.
 
-• Applied some ml models, did statistical analysis. After that **LSTM** was found out to be the best-fit model
+* Applied some ml models, did statistical analysis. After that **LSTM** was found out to be the best-fit model
 
 
 # [(Project 2: Bio-informatics) Computational Drug Design](https://kg-drug-activity-prediction.herokuapp.com/)
@@ -23,9 +23,9 @@ Photo by <a href="https://unsplash.com/@bash__profile?utm_source=unsplash&utm_me
 
 Photo by <a href="https://unsplash.com/@lunarts?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Volodymyr Hryshchenko</a> on <a href="https://unsplash.com/s/photos/pharmacy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
-• Used **SMILES** notation to compute **Lipinski’s descriptors**, collected the data from **ChEMBLdatabase**.
+* Used **SMILES** notation to compute **Lipinski’s descriptors**, collected the data from **ChEMBLdatabase**.
 
-• Performed exploratory Data Analysis, computed molecular descriptors using **PADELDescriptors software** & prepared (X, Y) data frames.
+* Performed exploratory Data Analysis, computed molecular descriptors using **PADELDescriptors software** & prepared (X, Y) data frames.
 
 • Applied **Random Forest Algorithm** & for better understanding of accuracy level, plotted a graph using **matplotlib library**.
 
