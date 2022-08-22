@@ -11,10 +11,9 @@
 Photo by <a href="https://unsplash.com/@bash__profile?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nicholas Cappello</a> on <a href="https://unsplash.com/s/photos/stock?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
-This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
-* **Input:** Tweets, News
-* **Output:** Sentiment of Cryptocurrency
+• Collected S&P stock history data from tiilingo(financial data platform) using free api key.
+• Analysed the effect of GAFAM on S&P stock, used graphical representation.
+• Applied some ml models, did statistical analysis. After that LSTM was found out to be the best-fit model
 
 # [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
 ![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
