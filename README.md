@@ -1,11 +1,13 @@
 # Koustav Ghosh
-*An Aspiring Data Scientist*
+Hello ! Welcome to my Data Science Portfolio. I am an Aspiring Data Scientist and a final year M.Tech student of Biochemical Engineering at Indian Institute of Technology (Banaras Hindu University), with a drive to earn a place and grow in the data science field. I have a deep interest in machine learning & NLP. I have some working experience in the data science field doing internship and project for the last 2 years.
 
 # Education
 * M.Tech (Biochemical Engineering), *IIT (BHU), Varanasi*, 2020-2022
 * B.Pharm (Pharmaceutical Engineering), *Jadavpur University*, 2016-2020
 
 # Projects
+
+Some of my work is still in progress. I’ve been working on those. You can check out some of the other projects below.
 
 # [(Project 1: Financial Analysis) Analyze the Pandemic Stock Market & Predict Stock price](https://github.com/koustav149/Analyze-the-Pandemic-Stock-Market-Predict-Stock-price)
 ![alt text](nicholas-cappello-Wb63zqJ5gnE-unsplash.jpg)
@@ -79,6 +81,11 @@ Photo by <a href="https://unsplash.com/@danieltadams?utm_source=unsplash&utm_med
 
 * Visualizations are done to find out how two types of users(member and casual) uses cyclistic bike share's bike differently.
 
+# Contacts
+Follow me on these social media platforms.
+ [LinkedIn:](https://www.linkedin.com/in/koustav-ghosh-633a30218/)
+ 
+ 
 
 
 
