@@ -31,6 +31,18 @@ Photo by <a href="https://unsplash.com/@kmuza?utm_source=unsplash&utm_medium=ref
 • Built **Power-BI** dashboard. Created a mobile view of that & access it inside the Power-BI application.
 
 
+# [(Project 3: Bio-informatics) Computational Drug Design](https://github.com/koustav149/Computational_Drug_Design_Web_Application)
+![alt text](volodymyr-hryshchenko-e8YFkjN2CzY-unsplash.jpg)
 
+Photo by <a href="https://unsplash.com/@lunarts?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Volodymyr Hryshchenko</a> on <a href="https://unsplash.com/s/photos/pharmacy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+• Used **SMILES** notation to compute **Lipinski’s descriptors**, collected the data from **ChEMBLdatabase**.
+
+• Performed exploratory Data Analysis, computed molecular descriptors using **PADELDescriptors software** & prepared (X, Y) data frames.
+
+• Applied **Random Forest Algorithm** & for better understanding of accuracy level, plotted a graph using matplotlib library.
+
+
+  
   
   
