@@ -83,7 +83,8 @@ Photo by <a href="https://unsplash.com/@danieltadams?utm_source=unsplash&utm_med
 
 # Contacts
 Follow me on these social media platforms.
- [LinkedIn:](https://www.linkedin.com/in/koustav-ghosh-633a30218/)
+
+**[Kaggle](https://www.kaggle.com/koustavghosh149)|[LinkedIn](https://www.linkedin.com/in/koustav-ghosh-633a30218/)|[Instagram](https://www.instagram.com/_koustav.ghosh_/)
  
  
 
