@@ -5,7 +5,7 @@
 * M.Tech (Biochemical Engineering), *IIT (BHU), Varanasi*, 2020-2022
 * B.Pharm (Pharmaceutical Engineering), *Jadavpur University*, 2016-2020
 
-# [(Project 1: Financial Analysis) Analyze the Pandemic Stock Market & Predict Stock price](http://youtube.com/dataprofessor)
+# [(Project 1: Financial Analysis) Analyze the Pandemic Stock Market & Predict Stock price](https://github.com/koustav149/Analyze-the-Pandemic-Stock-Market-Predict-Stock-price)
 ![alt text](nicholas-cappello-Wb63zqJ5gnE-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@bash__profile?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nicholas Cappello</a> on <a href="https://unsplash.com/s/photos/stock?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
