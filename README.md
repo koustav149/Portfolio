@@ -5,6 +5,8 @@
 * M.Tech (Biochemical Engineering), *IIT (BHU), Varanasi*, 2020-2022
 * B.Pharm (Pharmaceutical Engineering), *Jadavpur University*, 2016-2020
 
+# Projects
+
 # [(Project 1: Financial Analysis) Analyze the Pandemic Stock Market & Predict Stock price](https://github.com/koustav149/Analyze-the-Pandemic-Stock-Market-Predict-Stock-price)
 ![alt text](nicholas-cappello-Wb63zqJ5gnE-unsplash.jpg)
 
