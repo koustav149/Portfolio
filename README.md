@@ -43,6 +43,20 @@ Photo by <a href="https://unsplash.com/@lunarts?utm_source=unsplash&utm_medium=r
 • Applied **Random Forest Algorithm** & for better understanding of accuracy level, plotted a graph using **matplotlib library**.
 
 
+# [(Project 4: Content-based Recommender System) Movie Recommandation System](https://github.com/koustav149/Movie_Recommandation_System)
+![alt text](myke-simon-atsUqIm3wxo-unsplash.jpg)
+
+Photo by <a href="https://unsplash.com/@myke_simon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Myke Simon</a> on <a href="https://unsplash.com/s/photos/movies?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+  
+• TMDB dataset of 5000 Movies is collected from **kaggle**, basic **EDA** is performed. 
+
+• Tags are made out of overview, genres, keywords, cast and crew data of movies and **stemming** is done.
+
+• **Count Vectorization** is applied and similar movies are obtained based on **Cosine Similarity**.
+
+
+
   
   
   
