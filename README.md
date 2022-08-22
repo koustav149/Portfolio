@@ -67,7 +67,7 @@ Photo by <a href="https://unsplash.com/@being_aheart?utm_source=unsplash&utm_med
 
 • **Visualizations** are made using **matplotlib**, **seaborn** and **plotly** libraries.
 
-# [(Project 6: Google Data Analyst Capstone Project) Cyclistic Bike-share dataset Analysis](https://github.com/koustav149/Google-Data-Analytics-Capstone-Project)
+# [(Project 6: Google Data Analyst Capstone Project) Cyclistic Bike-share Dataset Analysis](https://github.com/koustav149/Google-Data-Analytics-Capstone-Project)
 ![alt text](daniel-adams-URK0rZTiOHc-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@danieltadams?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Daniel Adams</a> on <a href="https://unsplash.com/s/photos/bike-share?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
