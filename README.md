@@ -1,5 +1,5 @@
 # Koustav Ghosh
-*An Aspiring Data Scientist | 3X Kaggle Expert*
+*An Aspiring Data Scientist*
 
 # Education
 * M.Tech (Biochemical Engineering), *IIT (BHU), Varanasi*, 2020-2022
@@ -18,20 +18,7 @@ Photo by <a href="https://unsplash.com/@bash__profile?utm_source=unsplash&utm_me
 • Applied some ml models, did statistical analysis. After that **LSTM** was found out to be the best-fit model
 
 
-# [(Project 2: Data Analytics) Sales Insight Data Analysis Project in Power-BI.](https://github.com/koustav149/-Sales-Insight-Data-Analysis-Project-in-Power-BI.)
-![alt text](carlos-muza-hpjSkU2UYSU-unsplash.jpg)
-
-Photo by <a href="https://unsplash.com/@kmuza?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Carlos Muza</a> on <a href="https://unsplash.com/s/photos/sales-insight?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-
-• Analysed the **Aims Grid** approach & checked market-related information from particular **SQL database**.
-
-• Plugged **mysql database** ,with **Power-BI** & did **data wrangling** & currency normalization.
-
-• Built **Power-BI** dashboard. Created a mobile view of that & access it inside the Power-BI application.
-
-
-# [(Project 3: Bio-informatics) Computational Drug Design](https://github.com/koustav149/Computational_Drug_Design_Web_Application)
+# [(Project 2: Bio-informatics) Computational Drug Design](https://kg-drug-activity-prediction.herokuapp.com/)
 ![alt text](volodymyr-hryshchenko-e8YFkjN2CzY-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@lunarts?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Volodymyr Hryshchenko</a> on <a href="https://unsplash.com/s/photos/pharmacy?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -43,17 +30,43 @@ Photo by <a href="https://unsplash.com/@lunarts?utm_source=unsplash&utm_medium=r
 • Applied **Random Forest Algorithm** & for better understanding of accuracy level, plotted a graph using **matplotlib library**.
 
 
-# [(Project 4: Content-based Recommender System) Movie Recommandation System](https://github.com/koustav149/Movie_Recommandation_System)
+# [(Project 3: Content-based Recommender System) Movie Recommandation System](https://kg-movie-recommender-system.herokuapp.com/)
 ![alt text](myke-simon-atsUqIm3wxo-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@myke_simon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Myke Simon</a> on <a href="https://unsplash.com/s/photos/movies?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
   
-• TMDB dataset of 5000 Movies is collected from **kaggle**, basic **EDA** is performed. 
+• TMDB dataset of 5000 Movies is collected from **kaggle** and basic **EDA** is performed. 
 
 • Tags are made out of overview, genres, keywords, cast and crew data of movies and **stemming** is done.
 
 • **Count Vectorization** is applied and similar movies are obtained based on **Cosine Similarity**.
+
+
+# [(Project 4: Data Analytics) Sales Insight Data Analysis Project in Power-BI.](https://github.com/koustav149/-Sales-Insight-Data-Analysis-Project-in-Power-BI.)
+![alt text](carlos-muza-hpjSkU2UYSU-unsplash.jpg)
+
+Photo by <a href="https://unsplash.com/@kmuza?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Carlos Muza</a> on <a href="https://unsplash.com/s/photos/sales-insight?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+
+• Analysed the **Aims Grid** approach & checked market-related information from particular **SQL database**.
+
+• Plugged **mysql database** ,with **Power-BI** & did **data wrangling** & currency normalization.
+
+• Built **Power-BI** dashboard. Created a mobile view of that & access it inside the Power-BI application.
+
+# [(Project 5: Sports Analytics) IPL Players Analysis (2008-2019)](https://ipldataanalysis.herokuapp.com/)
+![alt text](aheart-W5o5EFH_RQ4-unsplash.jpg)
+
+Photo by <a href="https://unsplash.com/@being_aheart?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aheart</a> on <a href="https://unsplash.com/s/photos/ipl?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+  
+• IPL ball by ball and matches dataset is collected from **kaggle** and basic **EDA** is performed. 
+
+• Team wise and player wise analysis done for year 2008-2019.
+
+• **Visualizations** are made using **matplotlib**, **seaborn** and **plotly** libraries.
+
 
 
 
