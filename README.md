@@ -40,7 +40,7 @@ Photo by <a href="https://unsplash.com/@lunarts?utm_source=unsplash&utm_medium=r
 
 • Performed exploratory Data Analysis, computed molecular descriptors using **PADELDescriptors software** & prepared (X, Y) data frames.
 
-• Applied **Random Forest Algorithm** & for better understanding of accuracy level, plotted a graph using matplotlib library.
+• Applied **Random Forest Algorithm** & for better understanding of accuracy level, plotted a graph using **matplotlib library**.
 
 
   
