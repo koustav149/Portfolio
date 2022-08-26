@@ -15,7 +15,7 @@ Some of my work is still in progress. I’ve been working on those. You can chec
 Photo by <a href="https://unsplash.com/@bash__profile?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nicholas Cappello</a> on <a href="https://unsplash.com/s/photos/stock?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
-* Collected ***S&P stock*** history data from **tiilingo(financial data platform)** using free api key.
+* Collected ***S&P stock*** history data from **tiingo(financial data platform)** using free api key.
 
 * Analysed the effect of **GAFAM** on **S&P stock**, used graphical representation.
 
